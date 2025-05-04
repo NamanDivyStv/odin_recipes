@@ -1,0 +1,35 @@
+* {
+  background-color: beige;
+}
+.recipes {
+  text-align: center;
+}
+.title {
+    margin-left: 20px;
+    margin-top: 225px;
+  text-align: center;
+}
+.image.first{
+    padding-top: 25px;
+    padding-left: 28vw;
+}
+.image.second{
+    padding-top: 25px;
+    padding-left: 36vw;
+}
+.image.third{
+    padding-top: 25px;
+    padding-left: 38.5vw;
+}
+.text{
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 25px;
+    padding-top: 25px;
+    
+}
+.secondheading{
+    padding: 20px;
+    margin: 20px;
+}
